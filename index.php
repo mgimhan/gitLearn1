@@ -5,6 +5,7 @@ echo 'f2';
 echo 'f3';
 echo 'f4';
 echo 'f6';
+echo 'f7';
 /**
  * Created by PhpStorm.
  * User: madhuragimhan
