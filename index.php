@@ -1,5 +1,6 @@
 <?php
 echo 'm2';
+echo 'f1';
 /**
  * Created by PhpStorm.
  * User: madhuragimhan
