@@ -2,6 +2,7 @@
 echo 'm2';
 echo 'f1';
 echo 'f2';
+echo 'f3';
 /**
  * Created by PhpStorm.
  * User: madhuragimhan
