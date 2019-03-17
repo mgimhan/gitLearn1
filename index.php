@@ -4,6 +4,7 @@ echo 'f1';
 echo 'f2';
 echo 'f3';
 echo 'k1';
+echo 'k2';
 /**
  * Created by PhpStorm.
  * User: madhuragimhan
